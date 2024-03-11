@@ -3,14 +3,23 @@
 }
 
 Body {
-    background-color: aliceblue;
+    background-color: rgba(21, 21, 58);
     font-family: serif;
     font-size: 62.5%;
-    
+    color: white;
     
 }
 
+.center-card {
+    margin-top: 40vh;
+    text-align: center;
+}
+
+.center-card p {
+    font-size: 2rem;
+}
+
 h1 {
-    size: 2.5em;
+    font-size: 5rem;
     text-align: center;
 }
