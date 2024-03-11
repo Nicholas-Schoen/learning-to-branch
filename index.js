@@ -1,6 +1,6 @@
 const button = document.getElementById("yo-mama")
 
 button.addEventListener("click", () => {
-    alert("Your mama is a hoe!")
+    alert("42")
 });
 console.log("yo mama")
