@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+Body {
+    background-color: aliceblue;
+    font-family: serif;
+    font-size: 62.5%;
+    
+    
+}
+
+h1 {
+    size: 2.5em;
+    text-align: center;
+}
