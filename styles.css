@@ -3,25 +3,31 @@
 }
 
 Body {
-    background-color: rgba(21, 21, 58);
+    background-color: blue;
     font-family: serif;
     font-size: 62.5%;
-    color: white;
+}
     
-}
 
-.center-card {
-    margin-top: 40vh;
-    text-align: center;
-}
+
+    .center-card {
+        margin-top: 50%;
+        text-align: center;
+    }
+
 
 .center-card p {
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 h1 {
-    font-size: 5rem;
+    font-size: 2rem;
     text-align: center;
+}
+
+.center-message-and-button {
+    margin-top: 20vh;
+    
 }
 
 #yo-mama {
@@ -34,7 +40,8 @@ h1 {
   display: inline-block;
   font-size: 16px;
   border-radius: 25px;
-  font-size: 2rem;
+  font-size: 1rem;
   cursor: pointer;
 
 }
+
