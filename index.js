@@ -11,7 +11,10 @@ const monthNames = ["January", "February", "March", "April", "May", "June", "Jul
 const currentMonthIndex = currentDate.getMonth();
 const currentMonth =monthNames[currentMonthIndex];
 
-console.log(` Today is ${currentDay}, in the month of ${currentMonth}.`);
+//gets year
+const currentYear = currentDate.getFullYear();
+
+console.log(` Today is ${currentDay}, in the month of ${currentMonth}. The Year is ${currentYear} AD.`);
 
 
 button.addEventListener("click", () => {
