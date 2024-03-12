@@ -48,3 +48,9 @@ h1 {
 
 }
 
+@media  (min-width: 800px) {
+    .center-card {
+        margin: auto;
+    }
+    
+}
