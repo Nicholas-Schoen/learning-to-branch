@@ -48,4 +48,11 @@ h1 {
 
 }
 
-/* this to simulate a but fix on the master branch */
+@media  (min-width: 800px) {
+    .center-card {
+        margin: auto;
+    }
+    
+}
+
+/* This is a comment to get practice adding commits to a feature branch using git*/
