@@ -1,4 +1,4 @@
-const button = document.getElementById("yo-mama")
+const button = document.getElementById("button")
 const currentDate = new Date();
 
 console.log(`The current date is ${currentDate}`);
